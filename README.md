@@ -55,6 +55,8 @@ Contém animações criativas renderizadas no terminal:
 
 Este projeto foi inspirado em ferramentas de conversão de vídeo para ASCII e na nostalgia de jogos simples e animações de terminal.
 
+- [Video-To-Ascii-CMD](https://github.com/samuel1212703/Video-To-Ascii-CMD)
+
 ## 👨‍💻 Autor
 
 - [@saraivagustavo](https://github.com/saraivagustavo)
